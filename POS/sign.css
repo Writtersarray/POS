@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.sign-container{
+    width: 700px;
+    height: 500px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(17, 17, 17, 0.1);
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.form-group{
+    margin-top: 5px;
+}
+.form-group label{
+    margin-left: 300px;
+}
+.form-group input{
+    margin-left: 250px;
+    width: 230px;
+    height: 20px;
+    border-radius: 7px;
+    box-shadow: 5px 0 10px rgba(17, 17, 17, 0.1);
+}
+button{
+    margin-left: 320px;
+    width: 80px;
+    height: 25px;
+    background-color: black;
+    color: #ffff;
+    border-radius: 3px;
+}
+button a{
+    color: #ffff;
+    text-decoration: none;
+}
+
